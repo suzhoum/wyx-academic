@@ -9,9 +9,6 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: yuxiangw@cs.ucsb.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/yuxiangw_cs/
@@ -25,7 +22,7 @@ social:
       header: false
     link: https://sites.cs.ucsb.edu/~yuxiangw/docs/yuxiang_cv.pdf
     icon_pack: ai
-    icon: CV
+    icon: cv
 organizations:
   - name: University of California, Santa Barbara
     url: https://www.ucsb.edu/
