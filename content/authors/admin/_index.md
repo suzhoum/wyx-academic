@@ -21,6 +21,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/yuxiangw
+  - display:
+      header: false
+    link: https://sites.cs.ucsb.edu/~yuxiangw/docs/yuxiang_cv.pdf
+    icon_pack: ai
+    icon: CV
 organizations:
   - name: University of California, Santa Barbara
     url: https://www.ucsb.edu/
