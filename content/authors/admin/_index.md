@@ -1,7 +1,7 @@
 ---
 title: Yuxiang Wang
 role: Eugene Aas Chair Assistant Professor
-avatar_filename: yu-xiang.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
