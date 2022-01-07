@@ -25,7 +25,7 @@ social:
     icon: cv
   - display:
       header: false
-    email: yuxiangw@cs.ucsb.edu
+    link: "#contact"
     icon_pack: fas
     icon: envelope
 organizations:
