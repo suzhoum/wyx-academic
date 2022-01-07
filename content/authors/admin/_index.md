@@ -23,6 +23,11 @@ social:
     link: https://sites.cs.ucsb.edu/~yuxiangw/docs/yuxiang_cv.pdf
     icon_pack: ai
     icon: cv
+  - display:
+      header: false
+    link: yuxiangw@cs.ucsb.edu
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: University of California, Santa Barbara
     url: https://www.ucsb.edu/
@@ -31,7 +36,7 @@ education:
     - course: PhD in Machine Learning and Statistics
       institution: Carnegie Mellon University
       year: 2016
-email: yuxiangw@cs.ucsb.edu
+email: ""
 superuser: true
 highlight_name: true
 ---
