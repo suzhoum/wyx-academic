@@ -21,7 +21,8 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: yuxiangw AT cs 'dot' ucsb 'dot edu
-address: Henley Hall 2013
+address:
+  street: Henley Hall 2013
 
 # Site header
 
