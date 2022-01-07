@@ -22,7 +22,7 @@ twitter: ''
 
 email: yuxiangw AT cs 'dot' ucsb 'dot edu
 address:
-  street: Henley Hall \#2013
+  street: "Henley Hall #2013"
   region: UC Santa Barbara
 
 # Site header
